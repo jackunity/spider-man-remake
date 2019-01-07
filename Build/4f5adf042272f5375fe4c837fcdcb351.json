@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "spuderman",
+"dataUrl": "64c4ee0e3ea773d6c39e3746934998a4.unityweb",
+"wasmCodeUrl": "a145a7728a5bcb5317f01227a1852908.unityweb",
+"wasmFrameworkUrl": "97b01e8beb713fabfd6621c32e1cc8a7.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
